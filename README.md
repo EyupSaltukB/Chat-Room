@@ -2,6 +2,7 @@
 I developed a messaging app using Firebase with React + Vite.
 This application allows you to log in to the application with Google via firebase.
 Keeps messages, friends and message rooms in firebase.
+Sent messages reach the other party instantly.
 
 # Used Technologies
 - React.JS
