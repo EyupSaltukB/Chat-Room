@@ -1,4 +1,15 @@
 # React + Vite
+I developed a messaging app using Firebase with React + Vite.
+
+# Used Technologies
+- React.JS
+- CSS
+
+# Used Resources
+- Firebase 
+
+# Screenshoots
+![]()
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
